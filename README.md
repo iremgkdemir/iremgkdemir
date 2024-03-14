@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif"  />
 
 ###
 
@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/irem.gkdemir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="iremgokdemirr0@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/mu/mp/834/#tl/priority/%5Esmartlabel_personal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/iremgokdemir0" target="_blank">
