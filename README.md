@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Irem</h2>
+<h2 align="left">Hi! My name is Irem</h2>
 
 ###
 
